@@ -1664,3 +1664,11 @@ body::-webkit-scrollbar-thumb {
   background-color: #7b27d8;
   border-radius: 30px;
 } 
+
+.side{
+  text-align: left;
+}
+
+.side ul{
+  list-style-type: none;
+}
